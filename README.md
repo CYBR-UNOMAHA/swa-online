@@ -1,5 +1,5 @@
-# CYBR 8420 Software Assurance @ UNO
-This repository includes all contents related to CYBR 8420 Software Assurance course at The University of Nebraska Omaha.
+# CYBR 8420-850 Software Assurance @ UNOmaha
+This repository includes all contents related to CYBR 8420 Software Assurance course at The University of Nebraska Omaha. This respository contains materials for the course taught in a fully online format.
 
 # Course Author
 [Robin A. Gandhi](http://faculty.ist.unomaha.edu/rgandhi/)
@@ -15,13 +15,13 @@ Use these instructions if you do not intend to contribute any upstream changes. 
 
 ```bash
 # Make a empty directory and switch to it
-mkdir swa
-cd swa
+mkdir swa-online
+cd swa-online
 # Clone the Repository to the current directory
 # Notice the `.` at the end of the command
-git clone https://www.github.com/robinagandhi/swa .
+git clone https://github.com/CYBR-UNOMAHA/swa-online.git .
 ```
-Now examine the ```swa``` directory structure. It should have the same directory structure as this repository on Github.com.
+Now examine the ```swa-online``` directory structure. It should have the same directory structure as this repository on Github.com.
 
 The master branch includes the following content:
 * `master`: This branch includes files for course planning, project description, course syllabus, markdown based slides and any self-paced tutorials for class lectures.
@@ -51,7 +51,7 @@ In general, if you are making it a pull request you agree to abide by this CLA: 
 
 # License  
 Software Assurance.  
-Copyright (C) 2016  Dr. Robin A. Gandhi
+Copyright (C) 2020  Dr. Robin A. Gandhi
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
